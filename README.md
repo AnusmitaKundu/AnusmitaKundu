@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi 👋 this is Anusmita,</h1><br>I'm currently in the last year of my B. Tech.<br>I am looking to work on exciting projects.<br>
+<h3>Hi 👋 this is Anusmita,</h3><br>I'm currently in the last year of my B. Tech.<br>I am looking to work on exciting projects.<br>
 
 
 ## 🌐 Socials:
