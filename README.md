@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in the last year of my B. Tech.<br>I am looking to work on exciting projects.<br>
+<h1>Hi 👋 this is Anusmita,</h1><br>I'm currently in the last year of my B. Tech.<br>I am looking to work on exciting projects.<br>
 
 
 ## 🌐 Socials:
@@ -17,8 +17,5 @@ I'm currently in the last year of my B. Tech.<br>I am looking to work on excitin
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=AnusmitaKundu&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
